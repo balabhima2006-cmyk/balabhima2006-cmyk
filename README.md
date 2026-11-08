@@ -27,6 +27,6 @@ Welcome to my GitHub profile! I'm passionate about data analytics, programming, 
 
 ### 🌐 Connect With Me
 - GitHub: [balabhima2006-cmyk](https://github.com/balabhima2006-cmyk)
-- LinkedIn: Add your LinkedIn URL here
+- Linkedin:www.linkedin.com/in/bala-bhima-6a0344448
 
 ⭐ Thanks for visiting my profile!
